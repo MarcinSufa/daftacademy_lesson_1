@@ -1,0 +1,25 @@
+{
+  "name": "daft_lesson_1",
+  "version": "1.0.0",
+  "description": "DaftAcademy - homework project for lesson 1  ",
+  "main": "index.js",
+  "dependencies": {
+    "package": "^1.0.1",
+    "webpack-cli": "^3.3.11",
+    "webpack": "^4.42.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinSufa/daftacademy_lesson_1.git"
+  },
+  "author": "Marcin Sufa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinSufa/daftacademy_lesson_1/issues"
+  },
+  "homepage": "https://github.com/MarcinSufa/daftacademy_lesson_1#readme"
+}
