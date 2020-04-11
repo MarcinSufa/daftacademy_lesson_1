@@ -2,7 +2,7 @@
     "name": "daft_lesson_1",
     "version": "1.0.0",
     "description": "DaftAcademy - homework project for lesson 1  ",
-    "main": "index.js",
+    "main": "./dist/index.html",
     "dependencies": {
         "package": "^1.0.1",
         "webpack-cli": "^3.3.11"
